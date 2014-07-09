@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ClassDatabase</string>
+    <string name="tagPrompt">Mark</string>
+    <string name="queryPrompt">Student Name</string>
+    <string name="saveDescription">Save</string>
+    <string name="search">Search</string>
+    <string name="results">Search Results</string>
+</resources>
